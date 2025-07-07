@@ -1,0 +1,4614 @@
+{
+  "Module_1": [
+    {
+      "question": "Câu 1:    Thành phần cơ bản của máy tính là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhóm thiết bị nhập/xuất, CPU, nhóm thiết bị lưu trữ  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "CPU, RAM, ROM  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Màn hình, bàn phím và CPU  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "CPU, Mainboard, RAM  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  :    Trong hệ thống máy tính, thiết bị nào sau đây là thiết bị nhập/xuất cơ bản?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bàn phím, màn hình  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Bàn phím, chuột, máy chiếu  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Máy chiếu, máy scan  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Máy in, máy scan, máy chiếu  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 3:  Tính chất nào sau đây là một trong các tính chất của bộ nhớ RAM?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lưu trữ dữ liệu vĩnh viễn  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lưu trữ dữ liệu tạm thời khi máy tính hoạt động  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Người dùng chỉ đọc dữ liệu từ RAM, không ghi được  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dữ liệu ghi trên RAM do nhà sản xuất ghi 1 lần khi sản xuất máy tính  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  :    Các thiết bị nào sau đây có thể gắn trực tiếp vào máy khi đang hoạt động?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USB, HDD, RAM, thẻ nhớ  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "USB, thẻ nhớ, DVD, RAM  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bàn phím, USB, Mouse, ổ cứng di động  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "USB, thẻ nhớ, ROM  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  5  :    Thiết bị nào sau đây là bộ nhớ chính của máy tính?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RAM, ROM  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "USB  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thẻ nhớ  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ổ đĩa cứng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  6  :    Khái niệm nào sau đây là đúng khi nói về hệ điều hành?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hệ điều hành là một phần mềm hệ thống quan trọng  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hệ điều hành là phần mềm hệ thống điều khiển toàn bộ hoạt động của máy tính  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Hệ điều hành là phần mềm hệ thống điều khiển toàn bộ cấu trúc của máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hệ điều hành là phần mềm ứng dụng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  7  :    Khái niệm cơ bản về phần mềm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần mềm là chương trình máy tính thực hiện các yêu cầu của người dùng  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Phần mềm là chương trình máy tính dùng điều khiển hoạt động của máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phần mềm là chương trình máy tính dùng để khởi động máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phần mềm là chương trình máy tính tự động thực hiện một số nhiệm vụ hay chức năng hoặc giải quyết một vấn đề cụ thể nào đó  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  8  :    Phần mềm hệ thống là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Những chương trình do hệ thống tạo ra  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Những chương trình tạo môi trường làm việc và cung cấp dịch vụ cho các phần mềm khác  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Những chương trình thực thi theo yêu cầu của người dùng  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Những chương trình của hệ điều hành  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  9  :    Thành phần nào sau đây là bộ phận xử lý và điều khiển hoạt động của máy tính?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ROM  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "RAM  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ổ cứng  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "CPU  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  0  :    Hệ điều hành Windows tương tác với người dùng thông qua?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giao diện đồ họa  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thiết bị nhập xuất  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Giao diện dòng lệnh  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Bàn phím  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  1  :    Đơn vị đo lường thông tin cơ bản của máy tính là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Byte  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Kilo byte  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mega byte  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Giga byte  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  2  :    1KB bằng bao nhiêu B?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1024 B  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "1000 B  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "2048 B  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "948 B  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  3  :    Các thiết bị nào sau đây sử dụng đơn vị đo thông tin cơ bản để đánh giá?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đĩa cứng  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "CPU  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mainboard  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Màn hình  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  4  :    Những tín hiệu nào sau đây cho thấy máy tính bị nhiễm virus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Máy chạy chậm bất thường  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Không mở được ổ đĩa, thư mục trên ổ cứng  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Không cài được các phần mềm diệt virus trên máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  5  :    Các thành phần chính trong CPU  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ALU, CU, RAM  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "ALU, CU, ROM  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "ALU, CU, ROM, RAM  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "ALU, CU  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  6  :    Thiết bị nào sau đây không thuộc nhóm thiết bị xuất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Màn hình  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Projector  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Máy scan  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Máy in  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  7  :    Thiết bị nào sau đây không thuộc nhóm thiết bị nhập?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bàn phím  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Máy scan  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Máy in  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chuột  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  8  :    Phát biểu nào sau đây là đúng nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khi định dạng (format) ổ đĩa thì tất cả dữ liệu trên ổ đĩa sẽ bị xóa  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Định dạng ổ đĩa chính là xóa dữ liệu trên ổ đĩa  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Định dạng ổ đĩa là đánh dấu những vị trí lỗi trên đĩa  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Khi định dạng (format) ổ đĩa thì tất cả dữ liệu trên ổ đĩa sẽ bị xóa và các vị trí lỗi sẽ được đánh dấu  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  9  :    Trong các thiết bị sau, thiết bị nào vừa có thể là thiết bị nhập vừa là thiết bị xuất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Máy in  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Máy scan  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Màn hình cảm ứng  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chuột  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  20  :    ROM khác RAM ở điểm nào sau đây?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ROM lưu dữ liệu tạm thời, RAM lưu dữ liệu vĩnh viễn  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "ROM không bị mất dữ liệu khi tắt máy, RAM thì  bị mất.",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "RAM và ROM đều bị mất dữ liệu khi tắt máy  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "ROM có thể ghi và xóa nhiều lần dễ dàng hơn RAM  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  1  :    Các thành phần cơ bản của một thùng máy tính bao gồm:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vỏ thùng, CPU, Ram, Mainboard  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "CPU, Ram, MainBoard, HDD, Power  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "CPU, Ram, DVD- Rom, MainBoard, Power  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Vỏ máy, CPU, Ram, HDD, MainBoard, Power  .",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "Module_2": [
+    {
+      "question": "Câu 1:    Khi khởi động máy tính, phần mềm nào sẽ được thực hiện trước?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phần mềm gõ tiếng Việt  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hệ điều hành  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chương trình diệt virus máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Phần mềm MS Word, MS Excel  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  :    Trong môi trường Windows  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhiều chương trình thực thi đồng thời  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Hai  chương trình thực thi đồng thời  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chỉ chạy một chương trình  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 3:  Trong File Explorer, khi chọn tên ổ đĩa trong Pane trái thì  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pane phải hiển thị thông tin chi tiết về ổ đĩa được chọn  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thực hiện chức năng định dạng lại ổ đĩa được chọn  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thực hiện chức năng sao chép dữ liệu của ổ đĩa được chọn  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thực hiện chức năng phân vùng cho ổ đĩa được chọn  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  :    Thao tác nào sau đây dùng để thiết lập thuộc tính của tập tin hoặc thư mục?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Click phải chuột tên tệp tin/thư mục, chọn Properties  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Click phải chuột tên tệp tin/thư mục, chọn Attribute  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Click phải chuột tên tệp tin/thư mục, chọn Hidden  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Click phải chuột tên tệp tin/thư mục, chọn Type  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  5  :    Thư mục (folder) là một:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dạng tập tin đặc biệt, được dùng trong việc quản lý các tập tin  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Tập hợp các tập tin và thư mục con  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Phần ổ đĩa chứa một tập hợp các tập tin  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mục lục để tra cứu thông tin  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  6  :    Phát biểu nào sau đây là đúng khi nói về Recycle Bin:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recycle Bin là phần mềm ứng dụng  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Recycle Bin là nơi lưu lại các tập tin và thư mục bị xóa bằng phím  D  elete  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Recycle Bin là phần mềm hệ thống  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Recycle Bin  là  thành phần quản lý phần cứng của máy tính  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  7  :    Tổ hợp phím nào sau đây dùng để khởi động File Explorer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "⊞  + F  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "⊞  + E  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "⊞  + W  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "⊞  + Q  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  8  :    Trong  F  ile  E  xplorer, cách nào sau đây dùng để chọn một lúc các file/folder nằm liền nhau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Giữ phím Ctrl và chọn từng file/folder trong danh sách  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Giữ phím Alt và chọn từng file/folder trong danh sách  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn một file/folder đầu tiên, nhấn giữ Shift, chọn file/folder cuối trong danh sách.",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn một file/folder đầu tiên, nhấn giữ Control, chọn file/folder cuối trong danh sách  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  9  :    Trong  F  ile  E  xplorer, cách nào sau đây dùng để chọn một lúc các file/folder không nằm liền nhau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhấn giữ phím Ctrl và chọn từng file/folder trong danh sách  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Giữ phím Alt và chọn từng file/folder trong danh sách  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn một file/folder đầu tiên, nhấn giữ Control, chọn file/folder cuối trong danh sách  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn một file/folder đầu tiên, nhấn giữ phím Shift, chọn file/folder cuối trong danh sách  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  0  :    Trong  F  ile  E  xplorer, thao tác nào sau đây để sao chép đối tượng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn đối tượng, giữ phím Shift và kéo sang folder muốn sao chép đến  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn đối tượng, nhấn Ctrl + C, chọn vị trí sao chép đến, nhấn Ctrl + X  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn đối tượng, nhấn Ctrl + C, chọn vị trí sao chép đến, nhấn Ctrl + V  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn đối tượng, nhấn Ctrl + X, chọn vị trí sao chép đến, nhấn Ctrl + V  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  1  :    Trong Windows, Shortcut có ý nghĩa gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shortcut là một biểu tượng dùng để khởi động nhanh một chương trình được cài đặt trên máy tính  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Shortcut là một thư mục có chứa tập tin khởi động chương trình  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Shortcut là một chương trình trên màn hình Desktop  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Shortcut là một tập tin chương trình được đặt trên  D  esktop  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  2  :    Thành phần nào của Windows để quản lý các tập tin và thư mục?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microsoft Office  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Accessories  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Control Panel  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "File Explorer  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  3  :    Trong  F  ile  E  xplorer, thao tác nào sau đây không dùng để di chuyển nhanh một file/folder ra  D  esktop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Click phải trên file/folder, chọn  S  end to →  D  esktop  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Click phải trên file/folder, chọn  C  opy, click phải trên Desktop, chọn Paste  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn file/folder, click nút Move to, chọn Desktop  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn file/folder, drag chuột kéo thả vào Desktop  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  4  :    Đáp án nào sau đây đúng để tìm các tập tin với tên có chứa ký tự thứ ba là a và có phần mở rộng là .txt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a.txt  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "??a*.txt  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "??a.txt  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "*a??.txt  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  5  :    Trong File Explorer có bao nhiêu cách hiển thị (View) các tập tin và thư mục?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "6  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "7  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "8  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  6  :    Trong  F  ile  E  xplorer, cách nào sau đây dùng để sao chép đường dẫn của một đối tượng được lưu trữ trong máy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn đối tượng cần sao chép đường dẫn, chọn tab Home, click nút Copy path  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn đối tượng cần sao chép đường dẫn, chọn tab File, click nút Copy path  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn đối tượng cần sao chép đường dẫn, chọn tab View, click nút Copy path  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn đối tượng cần sao chép đường dẫn, chọn tab Share, click nút Copy path  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  7  :    Trong  F  ile  E  xplorer, cách nào sau đây dùng để sắp xếp các tập tin và thư mục trong ổ đĩa  (  T  :)  theo loại?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn ổ đĩa  (  T  :)  , chọn tab File, click nút Sort by, chọn Type  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn ổ đĩa  (  T  :)  , chọn tab View, click nút Sort by, chọn Type  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chọn ổ đĩa  (  T  :)  , chọn tab Home, click nút Sort by, chọn Type  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn ổ đĩa  (  T  :)  , chọn tab Share, click nút Sort by, chọn Type  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  8  :    Những chương trình nào sau đây là các tiện ích của hệ điều hành Windows?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unikey, WordPad  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paint, Word 2013  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Shipping Tool, Unikey  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "WordPad, Paint, Calculator  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  9  :    Cách nào sau đây dùng để chụp cửa sổ hiện hành trong Windows?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhấn nút PrintScr  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nhấn tổ hợp phím Alt + PrintScr  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nhấn tổ hợp phím Shift + PrintScr  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nhấn tổ hợp phím Windows + PrintScr  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  20  :    Trong WordPad, cách nào sau đây dùng để chèn công thức toán học?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Home, click nút Insert Object, chọn Microsoft Equation 3.0  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab View, click nút Insert Object, chọn Microsoft Equation 3.0  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Insert, click nút Insert Object, chọn Microsoft Equation 3.0  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Trong WordPad không thể chèn công thức toán học  .",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "Module_3": [
+    {
+      "question": "Câu 1:    Tổ hợp phím nào dùng để mở hộp thoại Open  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "F12  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Shift + F12  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alt + F12  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + F12  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  :    Lựa chọn nào sau đây không phải là một chức năng trên thước  (  Ruler)  trong Word  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tab stop  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Left Indent  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Right Indent  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Center Indent  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 3:  Màu nền hoặc các hiệu ứng áp dụng trên một tài liệu  Word  chỉ hiển thị trong  …?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Print Layout view  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Reading View  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Print Preview  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Outline View  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  :    Tập tin tài liệu  Word  có thể được chia thành nhiều phần với các tùy chọn về định dạng khác nhau, mỗi phần được gọi là gì  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Document  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Section  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Page Setup  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  5  :    Borders  trong Word  được áp dụng cho  …?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cells  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Paragraph  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Text  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cells, Text, Paragraph  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  6  :    Tùy chọn nào sau đây không phải là thuộc tính lề của trang  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Left  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Right  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Center  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Top  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  7  :    Portrait và Landscape  trong Word  là  ...?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Page Orientation  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Paper Size  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Page Layout  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Page Margin  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  8  :    Lựa chọn nào sau đây không thuộc nhóm  F  ont  S  tyle  tro  n  g Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bold  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Italics  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Regular  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Superscript  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  9  :    Chức năng giúp người dùng có thể gửi cùng một mẫu thư đến cho nhiều người khác nhau  trong Word  gọi là gì  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Macros  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Template  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mail merge  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Merge cells  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  0  :    Khi soạn thảo văn bản trong Word, phím Home dùng để  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Di chuyển con trỏ về đầu của tài liệu  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Di chuyển con trỏ đầu của đoạn văn  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Di chuyển con trỏ đầu của màn hình  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Di chuyển con trỏ đầu dòng  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  1  :    Tổ hợp phím Ctrl + phím mũi tên phải được dùng để  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Di chuyển con trỏ về bên phải của một từ  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Di chuyển con trỏ đến cuối dòng  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Di chuyển con trỏ cuối của tài liệu  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Di chuyển con trỏ xuống cuối của một đoạn  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  2  :    Khi soạn thảo văn bản trong Word, phím End dùng để  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Di chuyển con trỏ đến cuối dòng  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Di chuyển con trỏ cuối của tài liệu  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Di chuyển con trỏ cuối của đoạn văn  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Di chuyển con trỏ cuối của màn hình  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  3  :    Tổ hợp phím “Ctrl + PageDown”  trong Word  được sử dụng để di chuyển con trỏ đến  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuối một đoạn  (  Paragraph)  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Cuối trang  (  Page)  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Cuối dòng  (  Line)  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cuối màn hình  (  Screen)  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  4  :    Tổ hợp phím nào sau đây  trong Word  dùng để ẩn/hiện thanh Ribbon  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + F11  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + F1  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Shift + F1  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alt + F1  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  5  :    Thao tác nào sau đây  trong Word  thực hiện chức năng ngắt trang  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert → Page Break  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout → Breaks → Page  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Đặt trỏ tại vị trí ngắt trang, chọn tab Insert → Breaks → Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Đặt trỏ tại vị trí ngắt trang, chọn tab Page Layout → Page Break  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  6  :    Lựa chọn nào sau đây dùng để ngắt phần  (  Section break)  trong Word  sao cho phần tiếp theo bắt đầu ở đầu trang tiếp theo  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Section Breaks/ Next Page  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Section Breaks/ Continuous  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Section Breaks/ Even Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Section Breaks/ Odd Page  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  7  :    Lựa chọn nào sau đây dùng để ngắt phần  (  Section break)  trong Word  sao cho phần tiếp theo bắt đầu ở đầu trang chẵn tiếp theo  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Section Breaks → Next Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Section Breaks → Continuous  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Section Breaks → Even Page  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Section Breaks → Odd Page  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  8  :    Tính năng nào  trong Word  giúp chèn nội dung từ Clipboard như một văn bản không có định dạng  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paste Special  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Format Painter  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Page Setup  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Styles  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  9  :    Tổ hợp phím nào  trong Word  dùng để mở hộp thoại Find and Replace và tab Goto được kích hoạt  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + G  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + F  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ctrl + H  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + R  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  20  :    Tổ hợp phím nào  trong Word  dùng để ngắt dòng  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + Shift + Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Shift + Enter  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Alt + Enter  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  21  :    Kiểu hiển thị  (  View) nào sau đây không phải là kiểu hiển thị trong Word?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Print layout view  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Read mode view  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Master view  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Web layout view  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  22  :    Trong Word 2013, kiểu hiển thị  (  View) nào hiển thị tài liệu trên màn hình giống như khi tài liệu được in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Read mode view  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Outline view  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Print preview  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Print layout view  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  23  :    Để chuyển đổi kiểu hiển thị  trong Word  , người dùng có thể dùng các nút lệnh trên View shortcuts toolbar. Kiểu hiển thị nào sau đây không có trên View shortcuts toolbar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Read Mode view  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Print Layout view  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Outline View  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Web layout View  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  24  :    Trong nhóm lệnh Zoom của tab View, lệnh nào sau đây dùng để Zoom toàn bộ một trang tài liệu trong cửa sổ chương trình  Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One Page  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Multiple Pages  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Page Width  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Web layout View  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  25  :    Cách nào sau đây  trong Word  dùng để chèn ngày giờ hiện hành vào tài liệu và tự động cập nhật theo ngày giờ của hệ thống?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Insert, click nút Date & Time, trong hộp thoại Date and Time, đánh dấu chọn vào ô Automatically update  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Click chuột phải tại vị trí chèn ngày giờ, chọn Update field  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trong trang Display của hộp thoại Word Options, đánh dấu chọn vào mục Update before Printing  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mặc định ngày giờ tự động cập nhật  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  26  :    Cách nào sau đây dùng để chèn các biểu tượng  (  symbols) bằng chức năng Autocorrect  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trong hộp thoại Symbols, chọn biểu tượng, click nút AutoCorrect, nhập ký tự thay thế trong ô Replace, OK.",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trong hộp thoại Symbols, chọn biểu tượng, click nút Shortcut key, nhập tên phím tắt,  A  ssign  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Trong hộp thoại Symbols, chọn biểu tượng, click nút AutoCorrect, nhập ký tự thay thế trong ô Replace, click Add, click OK  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Không thực hiện được chức năng này  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  27  :    Lựa chọn nào sau đây không phải là các thuộc tính của lề trang  (  Margins)  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Top, Bottom, Left, Right.",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Top, Bottom, Mid  d  le, Center  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Left, Right, Center, Justify  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Top, Bottom, Left, Right, Center  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  28  :    Portrait và Landscape là các kiểu của  …  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Page Orientation.",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Paper Size  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Page Layout  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Page Margin  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  29  :    Để tiêu đề đầu trang của Section thứ 2 không trùng với tiêu đề đầu trang của section thứ nhất, người dùng phải tắt chức năng gì trong Header & Footer  của Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Different First Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Different Odd & Even Pages  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Link to Previous  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Different First Section  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  30  :    Khi tạo bảng bằng chức năng Insert Table, trong hộp thoại Insert Table, tùy chọn nào sẽ tạo ra một bảng mới có độ rộng của cột là nhỏ nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fixed column width  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "AutoFit contents  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "AutoFit windows  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "AutoFit Page  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  31  :    Phím F12 dùng để mở hộp thoại  … trong Word?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Save As  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Open  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Save  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Close  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  32  :    Lựa chọn nào sau đây không phải là tùy chọn của Section Break  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Next Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Previous Page  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Odd Page  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Even Page  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  33  :    Mặc định,  H  eader và Footer xuất hiện ở trang nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trang đầu tiên của tài liệu  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trang cuối cùng của tài liệu  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Những trang được chỉ định  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các trang  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  34  :    Chức năng nào  trong Word  dùng để thiết lập  H  eader và  F  ooter ở trang chẳn và trang lẻ có nội dung khác nhau?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Different first page  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Different Odd &  E  ven  P  ages  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Different sections  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Different Odd pages & Different  E  ven pages  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  35  :    Thao tác nào để bật hoặc tắt thước  (  Ruler) trong cửa sổ soạn thảo  Word?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Review      đánh dấu chọn vào ô Ruler  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab View      đánh dấu chọn vào ô Ruler  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Insert    Ruler  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn tab Page Layout      đánh dấu chọn vào ô Ruler  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  36  :    Chức năng Link to Previous  trong Word  được sử dụng để chỉ định  …?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Section hiện tại tiếp tục sử dụng Header và Footer của section trước  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Section hiện tại tiếp tục sử dụng định dạng của section trước  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Section hiện tại tiếp tục với section trước trên cùng một trang  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Section hiện tại liên kết với section trước  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  37  :    Lựa chọn nào không liên quan đến định dạng thụt lề của đoạn văn bản  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First line  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Hanging  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Left indent, Right indent  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Spacing  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  38  :    Tổ hợp phím nào dùng để ngắt cột  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + Shift + Enter  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Shift + Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alt + Enter  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  39  :    Thao tác nào sau đây dùng để thay đổi Font chữ của toàn bộ tài liệu  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Design      Font      chọn bộ Font cần thay đổi  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab Home      chọn Font trong nhóm lệnh Font  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Home    mở hộp thoại Font      chọn font cần thay đổi  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn tab Design      mở hộp thoại Font      chọn font cần thay đổi  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  40  :    Tổ hợp phím Ctrl + Shift + C  trong Word  được sử dụng để  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sao chép nội dung  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Sao chép định dạng  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sao chép công thức  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sao chép hình ảnh  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  41  :    T  ab  S  top  P  osition không thể canh lề kiểu  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decimal  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Center  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Bar  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Justify  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  42  :    Cách nào sau đây có thể sử dụng chức năng Format Painter nhiều lần  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Click biểu tượng Lock Format Painter  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Double click trên biểu tượng Format Painter  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chọn View      Format Painter    Multiple Use  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chức năng Format Painter không thể sử dụng nhiều lần  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  43  :    Tổ hợp phím Ctrl + T  trong Word  được sử dụng để thực hiện chức năng  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hanging Indent  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Left Indent  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mở hộp thoại Tabs  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Đóng tất cả các hộp thoại đang mở  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  44  :    Phần lề để đóng gáy sách  (  Gutter) có thể đặt ở vị trí nào?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lề trái và phải  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Lề trái và trên  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Lề trái và dưới  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chỉ đặt ở lể trái  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  45  :    Lựa chọn nào sau đây thực hiện xóa tất cả các định dạng của khối văn bản đang được chọn  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhấn phím Delete  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Click nút Clear All  F  ormatting trong nhóm lệnh Font  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nhấn tổ hợp phím Shift  +  Delete  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không thể xóa định dạng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  46  :    Chức năng nào sau đây dùng để xoay chữ trong một ô của bảng  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Text direction  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Text orientation  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Text rotate  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không có chức năng xoay chữ trong ô  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  47  :    Trong Word c  hức năng nào dùng để canh đều độ rộng của các cột trong bảng  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Distribute columns  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Distribute rows  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Distribute table  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Distribute cells  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  48  :    Thao tác nào sau đây không dùng để xóa một bảng  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn bảng      click nút Delete trong mini-Toolbar      chọn Delete Table  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn bảng và nhấn phím Delete  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Chọn bảng      chọn tab Layout        click nút Delete      chọn Delete Table  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn bảng      click chuột phải      chọn Delete  T  able  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  49  :    Trong cùng một tài liệu  Word  , làm cách nào để có thể xoay trang theo hai hướng Portrait và Landscape  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngắt section  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ngắt trang  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ngắt đoạn  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không thực hiện được  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  50  :    Thao tác nào sau đây dùng để chèn Watemark vào trang  Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Design      Watemark  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab Page  L  ayout      Watemark  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Home      Watemark  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn tab Insert        Watemark  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  51  :    Khi nhiều khối văn bản khác nhau được áp dụng cùng một Style, cách nào sau đây  trong Word  là tốt nhất dùng để hiệu chỉnh định dạng đồng thời cho các khối văn bản trên  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hiệu chỉnh Style đã được áp dụng  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Lần lượt chọn các khối văn bản và hiệu chỉnh định dạng  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Hiệu chỉnh định dạng của một khối sau đó dùng chức năng Format Painter  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Dùng chức năng Paste Special  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  52  :    Lựa chọn nào sau đây dùng để chuyển dữ liệu trong một bảng thành dạng Text  trong Word  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt trỏ trong bảng, chọn tab  Table  Layout, click nút Convert to Text  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn bảng, Click nút Border trong nhóm lệnh Paragraph, chọn No border  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dùng chức năng  E  raser để xóa các cạnh của bảng  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn bảng và nhấn phím Delete  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  53  :    Khi đặt  con  trỏ trong bảng dữ liệu thì trên thanh Ribbon xuất hiện một tab  …  chứa các lệnh để định dạng và hiệu chỉnh bảng  .",
+      "options": [
+        {
+          "label": "A",
+          "text": "Table Format  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Table Tools  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Table  D  esign  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Table Format and Design  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  54  :    Trong Word  đ  ể kết hợp nhiều ô thành một ô trong bảng, thao tác nào sau đây là sai?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn các ô cần kết hợp, chọn tab Layout trong Table Tools, click nút Merge cells  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn các ô cần kết hợp, click chuột phải, chọn Merge cells  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn các ô cần kết hợp, chọn tab Design trong Table Tools, click nút Merge cells  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Đặt trỏ trong bảng, click nút  E  raser trong nhóm lệnh Draw của tab Layout, xóa các cạnh của ô cần kết hợp  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  55  :    Trong Word  t  hao tác nào thực hiện tách một bảng thành 2 bảng riêng biệt  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt trỏ tại dòng cần tách, chọn chức năng Split Table trong nhóm lệnh Merge của tab Layout  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Đặt trỏ tại dòng cần tách, click chuột phải, chọn Split Table  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn dòng tại vị trí cần tách, chọn chức năng Delete Row  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không thực hiện được chức năng tách bảng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  56  :    Trong Word  k  hi một bảng kéo dài trên nhiều trang, cách nào sau đây làm cho tiêu đề của bảng lặp lại tại đầu của mỗi trang  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt trỏ  tại tiêu đề  trong bảng, click nút  R  epeat Header  R  ows trong nhóm lệnh Data của tab  Table  Layout  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Sao chép tiêu đề của bảng cho mỗi trang  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Click chuột phải trên dòng tiêu đề, chọn  R  epeat Header  R  ows  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mặc định tiêu đề bảng lặp lại ở đầu của mỗi trang  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  57  :    Phát biểu nào sau đây nói về Mini toolbar trong  W  ord 2013  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thanh công cụ xuất hiện tại vị trí chọn khối văn bản  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Thanh công cụ nằm bên trên của thanh Ribbon  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Thanh công cụ không có sẵn trên thanh Ribbon  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Thanh công cụ chỉ có trong Word 2010  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  58  :    Một hình chèn vào trang văn bản    và khi  được  chọn thì trên thanh Ribbon xuất hiện một tab chứa các công cụ định dạng cho hình, đó là tab gì  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drawing tools  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Picture tools  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Shape tools  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Format tools  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  59  :    Số dòng tối đa có thể thiết lập ứng với chiều cao của một Drop cap  trong Word là bao nhiêu?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "4.",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "2  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "10.",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  60  :    Để Header & Footer  không hiển thị ở trang đầu tiên (Cover Pages) chúng ta cần chọn tùy chọn nào  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Different First Page  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Different Odd & Even Pages  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Link to Previous  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Different First Section  .",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "Module_4": [
+    {
+      "question": "Câu 1:    Thông báo lỗi nào cho biết khi một số có định dạng rộng hơn độ rộng của một ô  trong Excel  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "#####  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Div/0!  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "div@  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "#REF!  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  :    Khi cần biểu diễn xu hướng doanh thu của nhân viên bán hàng trong mỗi tháng, biểu đồ nào là phù hợp nhất?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pie chart  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Row chart  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Line chart  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Column chart  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 3:  Để giữ cột tiêu đề hoặc dòng tiêu đề ở vị trí cố định sao cho chúng không di chuyển khi cuộn bảng tính, lệnh nào sau đây sẽ được sử dụng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unfreeze Panes  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Freeze Panes  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Split  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Hold titles  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  :    Khi sao chép một công thức  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excel xóa bản gốc của công thức  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Excel chỉnh sửa các ô tham chiếu trong công thức mới được sao chép  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Excel sẽ điều chỉnh các ô tham chiếu tuyệt đối  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Excel không điều chỉnh các ô tham chiếu tương đối  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  5  :    Lựa chọn nào sau đây không là dữ liệu hợp lệ trong Excel  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Number  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Character  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Label  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Date/Time  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  6  :    Lệnh nào dùng để tách cửa sổ làm việc của Excel thành hai cửa sổ  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab View → Split  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab View → Window Split  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Home → Split  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn tab ReView → Split  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  7  :    Trong Excel, k  ý hiệu nào sau đây dùng để nối chuỗi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "'  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "!  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "#  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "&  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  8  :    Trong Excel, có thể thực hiện phép tính tổng của dãy nhiều ô nằm liền kề nhau một cách tự động bằng cách chọn chức năng nào sau đây?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AutoFill  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Auto correct  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Auto sum  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Auto format  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  9  :    Trong Excel, h  àm nào sau đây dùng để lấy phần dư của phép chia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Round  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Fact  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mod  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Div  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  0  :    Thiết lập định dạng cho ô chứa dữ liệu số 5436.8 có dạng #,##0.00, kết quả hiển thị là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5,430.00  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "5,436.80  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "5,436.8  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "5,437.00  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  1  :    Trong Excel, h  àm nào trả về ngày và giờ hiện hành của máy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Date()  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Today()  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Now()  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Time()  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  2  :    Hàm COUNT() dùng để đếm  …  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Các ô chứa dữ liệu số  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Các ô chứa dữ liệu text  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Các ô rỗng  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Các ô không rỗng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  3  :    Tổ hợp phím nào dùng để chọn một cột  trong Excel  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + Space Bar  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + Page Up  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alt + Space Bar  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alt + Enter  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  4  :    Excel hiển thị địa chỉ của ô hiện hành trong  …  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Formula Bar  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Status Bar  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Name Box  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Title Bar  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  5  :    Phím tắt nào dùng để tạo biểu đồ biểu diễn khối dữ liệu đang được chọn, biểu đồ được tạo trong một sheet mới?",
+      "options": [
+        {
+          "label": "A",
+          "text": "F2  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "F4  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "F  8  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "F  11  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  6  :    Công thức nào sau đây dùng để tìm giá trị cao nhất trong một dãy giá trị:",
+      "options": [
+        {
+          "label": "A",
+          "text": "MAX(B1:B3)  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "MAXIMUM(B1:B3)  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "HIGH(B1:B3)  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "HIGHEST(B1:B3)  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  7  :    Trong Excel, tổ hợp phím nào sau đây dùng để chèn ngày hiện hành  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + D  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + T  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ctrl + ;  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + /  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  8  :    Nếu nhập 4/6 vào một ô trong bảng tính Excel, không có bất kỳ định dạng nào thì Excel xem đây là kiểu dữ liệu gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phân số  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Số  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Text  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ngày  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  9  :    Ô A1 chứa chuỗi \"what you see\", B1 chứa chuỗi \"what you get\", công thức nào sau đây trả về chuỗi \"what you see is what you get\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A1&\"    is    \"&B1  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "A1+\"    is    \"+B1  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "A1#\"    is    \"#B1  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "A1$\"    is    \"$B1  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  20  :    Tổ hợp phím nào dùng để ẩn một dòng trong bảng tính  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + H  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + R  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ctrl + 9  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + -  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  21  :    Trong Excel, l  ựa chọn giúp người dùng định dạng tất cả các số âm có dạng đậm, màu đỏ, gọi là  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conditional Formatting  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Compare Formatting  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Negative Formatting  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Zero Formatting  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  22  :    Trong  E  xcel, cách nào sau đây dùng để xuống dòng trong một ô  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Shift + Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alt + Enter  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + Enter  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  23  :    Trong  E  xcel,  c  hức năng nào sau đây làm cho nội dung trong một ô tự động xuống dòng khi gặp lề phải của ô  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wrap text  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Shrink to fit  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Merge cells  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Merge across  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  24  :    Trong  E  xcel,  k  iểu View nào sau đây cho phép người dùng có thể nhập nội dung cho Header và Footer của bảng tính  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Page  L  ayout  V  iew  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Page  B  reak  P  review  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Print  P  review  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  25  :    Trong  E  xcel,  k  iểu View nào sau đây cho phép người dùng chỉ có thể xem nội dung của Header và Footer của bảng tính  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Page  L  ayout  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Page  B  reak  P  review  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Print  P  review  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  26  :    Trong  E  xcel,  k  iểu View nào sau đây cho phép người dùng có thể xem dấu ngắt trang của bảng tính  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Page  L  ayout  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Page  B  reak  P  review  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Print  P  review  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  27  :    Trong  E  xcel,  t  ổ hợp phím nào sau đây dùng để di chuyển con trỏ đến ô cuối cùng của bảng dữ liệu  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + End  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + Shift + End  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Shift + End  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Alt + End  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  28  :    Trong  E  xcel,  c  ách nào sau đây để di chuyển trỏ đến cột cuối cùng của  W  orksheet  của hàng hiện tại  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhấn phím End, sau đó nhấn tổ hợp phím Ctrl +    .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nhấn phím End, sau đó nhấn tổ hợp phím Ctrl + End  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "N  hấn tổ hợp  phím Ctrl  +    .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "N  hấn tổ hợp phím Shift + End  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  29  :    Trong  E  xcel,  n  ếu định dạng dữ liệu kiểu số trong một ô hoặc dãy ô có dạng: [Blue]#,## 0);[Red](#,##0); thì khi nhập giá trị vào ô, kết quả sẽ hi  ể  n thị như thế nào  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Số dương màu xanh, số âm màu đỏ đặt trong cặp dấu ()  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Số dương màu đỏ, số âm màu xanh đặt trong cặp dấu ()  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Số dương màu xanh đặt trong cặp dấu (), số âm màu đỏ  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Số dương màu xanh, số âm màu đỏ  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  30  :    Trong  E  xcel,  n  ếu  d  ùng chức năng Define Name định nghĩa tên cho ô A1 là  TiGia  , tên  TiGia  tương ứng với loại địa chỉ nào sau đây  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A1  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "$A$1  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "A$1  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "$A1  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  1  :    Trong  E  xcel,  cách nào sau đây dùng để thiết lập Font mặc định  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn File        Options        Gen  e  ral, tại mục Use this as the default font, chọn Font mặc định  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn Home        Font        Gen  e  ral, chọn tab Font, chọn Font mặc đ  ị  nh  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn Home        trong nhóm lệnh Font, chọn Font mặc đ  ị  nh  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn File        Options        Advanced, tại mục Use this as the default font, chọn Font mặc  định  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  2  :    Để sao chép giá trị của dữ liệu từ vị trí này đến vị trí khác trong bảng tính của  E  xcel, lựa chọn nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt  con  trỏ tại vị trí cần sao chép, click nút Paste trong nhóm lệnh Clipboard  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Đặt  con  trỏ tại vị trí cần sao chép, click mũi tên bên dưới nút Paste, chọn Paste  S  pecial, chọn  V  alues  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Đặt  con  trỏ tại vị trí cần sao chép, click mũi tên bên dưới nút Paste, chọn Paste  S  pecial, chọn  A  ll  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Đặt trỏ tại vị trí cần sao chép, click mũi tên bên dưới nút Paste, chọn Paste  S  pecial, chọn Data  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  3  :    Trong Excel, c  ách nào sau đây dùng để sao chép dữ liệu trong dãy ô A1:A4 thành dòng từ C1:F1  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô C1, chọn Paste Special, chọn Transpose  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô C1, chọn Paste  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô A1, chọn Paste Special, chọn Rows  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn các ô A1:A4, click nút Copy, Click chuột phải trên ô C1, chọn Paste Link  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  4  :    Ô A1 chứa giá trị 0.1, sử dụng chức năng Fill để điền dữ liệu cho các ô từ A2, A3, … các giá trị theo quy tắc 0.6, 1.1, 1.6, 2.1, … và giá trị kết thúc là 3, thao tác nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đặt trỏ trong ô A1, chọn Fill      Series, tại mục Series in, chọn Columns, tại ô Step  V  alues, nhập giá trị 0.5,  S  top  V  alues, nhập giá trị 3  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Đặt trỏ trong ô A1, chọn Fill      Series, tại mục  T  ype, chọn Autofill, tại ô Step  V  alues, nhập giá trị 0.5,  S  top  V  alues, nhập giá trị 3  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Đặt trỏ trong ô A1, chọn Fill      Series, tại mục  T  ype, chọn Linear, tại ô Step  V  alues, nhập giá trị 0.4,  S  top  V  alues, nhập giá trị 3  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Đặt trỏ trong ô A1, chọn Fill      Series, tại mục  T  ype, chọn Growth, tại ô Step  V  alues, nhập giá trị 0.6,  S  top  V  alues, nhập giá trị 3  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  5  :    Ô A1 chứa giá trị 15/04/2016, dùng chức năng Fill để điền giá trị cho dãy ô A2:A10, là những ngày làm việc trong tuần bắt đầu từ ngày 15/04/2016, thao tác nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn dãy ô A1:A10, chọn Fill      Series, trong mục Date  U  nit, chọn Weekday  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn dãy ô A2:A10, chọn Fill      Series, trong mục Date  U  nit, chọn Weekday  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn dãy ô A1:A10, chọn Fill      Series, trong mục Type, chọn AutoFill  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn dãy ô A2:A10, chọn Fill      Series, trong mục Type, chọn Date  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  6  :    Trong Excel, t  hao tác nào sau đây dùng để xóa định dạng trong một ô hoặc dãy các ô  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Cells, click nút Clear, chọn Formats  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn các ô cần xóa định dạng, nhấn phím Delete  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Editing, click nút Clear, chọn Clear Formats  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Cells, click nút Delete, chọn Delete Cells  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  7  :    Trong Excel, t  hao tác nào sau đây dùng để xóa định dạng trong một ô hoặc dãy các ô  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Cells, click nút Clear, chọn Formats  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn các ô cần xóa định dạng, nhấn phím Delete  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Editing, click nút Clear, chọn Clear Formats  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn các ô cần xóa định dạng, trong nhóm lệnh Cells, click nút Delete, chọn Delete Cells  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  8  :    Trong Excel,  t  hao tác nào sau đây dùng để định dạng những điểm thi có giá trị cao hơn điểm thi trung bình của cả lớp có kiểu in đậm và màu đỏ  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn New Rule, chọn rule: Format only values that are above or below average, click format, chọn Font Style: Bold và Color: Red  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn Top/Bottom Rules    Above Average    Red Text.",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn Top/Bottom Rules    Below Average    Red Text  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn cột điểm thi, click nút Conditional Formatting trong nhóm lệnh Style, chọn New Rule, chọn rule: Format only values that are Below or below average, click format, chọn Font Style: Bold và Color: Red  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  3  9  :    Trong Excel,  đ  ể cố định phần tiêu đề của bảng tính tại hai dòng 1 và 2, thao tác nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn 2 dòng 1 và 2 của bảng tính, trong nhóm lệnh Window của  T  ab View, click nút Freeze Panes, chọn Freeze Panes  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn dòng thứ 3 của bảng tính, trong nhóm lệnh Window của  T  ab Review, click nút Freeze Panes, chọn Freeze Panes  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Đặt trỏ trong bảng tính, trong nhóm lệnh Window của  T  ab View, click nút Freeze Panes, chọn Freeze Panes  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn dòng thứ 3 của bảng tính, trong nhóm lệnh Window của  T  ab  View, click nút Freeze Panes, chọn Freeze Panes  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  40  :    Mặc định khi thực hiện thao tác in,  E  xcel sẽ in toàn bộ bảng tính, cách nào sau đây dùng để in một vùng dữ liệu được chỉ định  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn vùng dữ liệu cần in, chọn tab File, chọn Print,  click  nút Print  A  rea, chọn Set Print  A  rea  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn vùng dữ liệu cần in, chọn tab File, chọn Print, click Page Setup, chọn nút Print  A  rea  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn vùng dữ liệu cần in, chọn tab Page Layout, trong nhóm lệnh Page Setup,  click  nút Print  A  rea, chọn Set Print  A  rea  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn vùng dữ liệu cần in, chọn File    Print        Print  Area  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  1  :    Để tiêu đề của bảng tính lặp lại t  ại  đầu của mỗi trang, thao tác nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mở hộp thoại Page Setup, chọn tab Sheet, trong mục Print  t  itles, đưa trỏ vào ô Rows to repeat at top, chọn các dòng cần lặp lại ở đầu trang, click OK.",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Mở hộp thoại Page Setup, trong mục Print titles, đưa trỏ vào ô Rows to repeat at top, chọn các dòng cần lặp lại ở đầu trang, click OK.",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn bảng tính, mở hộp thoại Page Setup, trong mục Print titles, đưa trỏ vào ô Rows to repeat at top, chọn các dòng cần lặp lại ở đầu trang, click OK  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mở hộp thoại Page Setup, chọn dãy các ô cần lặp lại ở đầu mỗi trang, đưa trỏ vào ô Rows to repeat at top, click OK  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  2  :    Trong Excel, c  ách nào sau đây dùng để xóa tên của ô và dãy các ô đã được định nghĩa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn  T  ab Data    Name Manager      chọn tên của ô hoặc dãy các ô cần xóa    Delete.",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn  T  ab Home    Name Manager      chọn tên của ô hoặc dãy các ô cần xóa    Delete.",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn  T  ab Formulas    Name Manager      chọn tên của ô hoặc dãy các ô cần xóa    Delete  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn ô hoặc dãy các ô cần xóa tên    Delete  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  3  :    Trong Excel,  tên của ô hoặc dãy ô được định nghĩa có giá trị trong phạm vi nào  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trong Worksheet chứa ô hoặc dãy ô được định nghĩa tên  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trong toàn bộ Workbook  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Trong tất cả các  W  orkbook  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không có giá trị trong bất kỳ phạm vi nào  .",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "Module_5": [
+    {
+      "question": "Câu 1:    Loại hiệu ứng nào dùng để gán cho đối tượng để đối tượng thoát khỏi màn hình đang trình chiếu  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Entrance  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Emphasis  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Exit  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Motion Path  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  :    Phát biểu nào sau đây là sai khi gán hiệu ứng cho các đối tượng trên slide  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Một đối tượng trên slide chỉ được gán một hiệu ứng  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Một đối tượng có thể gán nhiều hiệu ứng  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Nhiều đối tượng có thể gán cùng một loại hiệu ứng  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Có thể gán âm thanh kèm theo hiệu ứng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 3:  Thao tác nào sau đây dùng để chọn một  H  yperlink trong slide khi đang trình chiếu  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + K  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + H  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tab  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + L  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  :    Hiệu ứng đặc biệt được sử dụng để giới thiệu các slide trong một bài thuyết trình này được gọi là  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Effects  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Custom animations  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Transitions  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Present animations  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  5  :    Cách nào sau đây dùng để đưa ảnh nền thống nhất cho tất cả các slide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tạo  T  emplate  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tạo  S  lide  M  aster  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Sử dụng Autocorrect  W  izard  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Sử dụng Background  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  6  :    Cách nào sau đây dùng để tạo ra các trang chú thích, ghi chú và logo hiển thị trên mỗi trang?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chèn chú thích và logo vào  S  lide  M  aster  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chèn chú thích và logo vào từng slide riêng biệt  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chèn logo vào trang chú thích của slide  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không thể chèn chú thích vào slide  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  7  :    Kiểu View nào không  phải  là kiểu View trong PowerPoint  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slide Show  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Slide  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Outline  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Presentation  V  iew  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  8  :    Trong PowerPoint, kiểu View nào là tốt nhất để thêm hiệu ứng  T  ransitions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slide  S  how  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Slide  S  orter  V  iew  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Slide  V  iew  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Notes  V  iew  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  9  :    Tổ hợp phím tắt nào sau đây dùng để ẩn các lệnh trên thanh Ribbon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shift + F1  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + F1  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Alt + F1  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + Shift + F1  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  0  :    Chức năng Format Painter được sử dụng để làm gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Để làm cho bức tranh trên slide phong phú hơn  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Để tạo một hình nền đẹp trên một slide  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Để sao chép định dạng của một đối tượng này sang đối tượng khác và ngược lại  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Để thay đổi màu nền của slide  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  1  :    Để tên tác giả xuất hiện ở cuối mỗi slide khi trình chiếu, thao tác nào sau đây là đúng?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Insert, trong nhóm lệnh Text, click Header & Footer, nhập tên tác giả vào Footer  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab Insert, trong nhóm lệnh Slide, click Header & Footer, nhập tên tác giả vào Footer  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Insert, trong nhóm lệnh Slide, chọn  S  lide  M  aster, click nút Header & Footer  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn tab Insert, click Header & Footer, nhập tên tác giả vào Footer  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  2  :    Để xem trước hiệu ứng  M  otion  P  ath trong  A  nimation  P  ane,  chúng ta  thực hiện chức năng nào sau đây?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Show  E  ffect  B  utton  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Click nút Play from  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Double click vào  M  otion  P  ath  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Click nút Play  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  3  :    Cách nào sau đây dùng để gán hiệu ứng chuyển từ slide này sang slide khác?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn tab Transitions, chọn loại hiệu ứng trong nhóm lệnh  T  ransition to  T  his  S  lide  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm lệnh Animation, chọn loại hiệu ứng  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm lệnh  T  ransition, chọn loại hiệu ứng  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Chọn tab Animations, chọn loại hiệu ứng trong nhóm Slide, chọn loại hiệu ứng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  4  :    Chọn tab Transition, tại mục Duration, nhập 00:05 giây, click Apply to  A  ll  S  lide, thao tác này để làm gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chỉ định thời gian trình chiếu 1 slide  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Khoảng thời gian từ khi kết thúc slide trước đến khi slide tiếp theo được trình chiếu  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Slide tự động trình chiếu sau 00:05 giây  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Xác định thời gian chuyển từ slide này đến slide kế tiếp  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  5  :    Để in các slide theo thứ tự 1, 3, 6, 9, chọn tab File, chọn trang Print và thực hiện thao tác nào sau đây  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn Print Current Slide  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trong khung Slide, nhập 1,3,6,9  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn All, nhập vào 1,3,6,9  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Setting, chọn Slides, nhập 1,3,6,9  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  6  :    Chèn 1 đoạn nhạc vào Slide và thiết lập thuộc tính \"Play  A  cross  S  lides\", ý nghĩa là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đoạn nhạc sẽ chạy xuyên suốt các slide  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Chạy hết đoạn nhạc mới chuyển slide  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tự động tắt nhạc khi trình chiếu  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Không biểu hiện gì khi thực hiện trình chiếu  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  7  :    Khi gán hiệu ứng cho các đối tượng, thuộc tính nào cần thiết lập để đối tượng sau tự động xuất hiện sau đối tượng trước đó?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start With Previous  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start on Click  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn đối tượng, trong Animation Pane, chọn hiệu ứng, chọn lệnh Start After Previous  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Chọn đối tượng, chọn tab Transitions, chọn hiệu ứng, chọn lệnh Start After Previous  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  8  :    Nếu bạn sử dụng email để gửi một file PowerPoint đến một người dùng khác, bạn có thể thêm nó vào trong email như là một  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inclusion  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Attachment  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Reply  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Forward  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  9  :    Để khởi động ứng dụng PowerPoint từ cửa sổ Run, thao tác nào sau đây là đúng  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nhấn  ⊞    +    R, nhập MSPowerpoint.exe nhấn Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Nhấn  ⊞    +    R, sau đó gõ: POWERPNT.EXE, nhấn Enter  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Nhấn  ⊞  + R, nhập powerpoint.exe nhấn Enter  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Nhấn  ⊞  + R, nhập ppoint.exe nhấn Enter  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  20  :    Một bài trình chiếu có thể được tạo ra từ  :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Một  P  resentation trống  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Một  P  resentation có sẵn  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Một  P  resentation mẫu  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng  .",
+          "is_correct": true
+        }
+      ]
+    }
+  ],
+  "Module_6": [
+    {
+      "question": "Câu 1:    Website có tên miền là  \"www.cuibap.com\"  cho biết  \"  .  com\" có nghĩa là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Đây là địa chỉ của các trang web giáo dục  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Đây là địa chỉ của các trang web thương mại, dịch vụ  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Đây là địa chỉ của các trang web giải trí  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Đây là địa chỉ của các trang web thông thường  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  2  :    Để truy cập vào một trang Web chúng ta cần phải biết:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hệ điều hành đang sử dụng  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Trang web đó của nước nào  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Tên miền của trang Web  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 3:  Chọn một trong các lựa chọn sau đây không phải là một trình duyệt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microsofts Bing  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Internet Explorer  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mozilla Firefox  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Google Chrome  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  4  :    Chọn phát biểu đúng, để truy cập vào một trang Web chúng ta cần biết:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hệ điều hành đang sử dụng  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Địa chỉ IP của trang web đó  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Trang web đó của nước nào  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều sai  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  5  :    Để có được trang Web trên Internet cho người khác truy cập vào thì cần phải có:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Một tên miền truy cập (hay domain) hoặc IP máy chủ  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Một máy chủ là nơi để chứa nội dung trang Web, hay còn gọi là hosting  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Kết nối tên miền đến máy chủ hosting chứa trang Web  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Cả 3 điều kiện trên  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  6  :    Khi đang duyệt web bằng Internet Explorer phím F5 có công dụng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quay về trang chủ  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Quay về trang trước  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Quay xuống phía dưới  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tải lại trang  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  7  :    Phím tắt để m  ở  T  ab mới trên Internet Explorer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + N  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + W  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ctrl + T  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Alt + F4  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  8  :    Phím tắt để m  ở lịch sử duyệt  W  eb  trên  Internet Explorer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + H  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + J  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ctrl + D  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + Shift + Del  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu  9  :    Phím tắt để m  ở lịch sử  D  ownload của Internet Explorer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + H  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + J  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Ctrl + D  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl + Shift + Del  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  0  :    Tổ hợp phím Ctrl + F mở:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mở công cụ tìm kiếm Google  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Mở một file  HTML  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Mở hộp tìm kiếm văn bản trong trang web hiện tại  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Mở công cụ tìm kiếm Bing  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  1  :    Tổ hợp phím mở lại  T  ab vừa đóng:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl    +    T  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl    +    Alt    +    N  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alt    +    Shift    +    N  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl    +    Shift    +    T  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  2  :    Phím tắt đ  óng  T  ab hiện tại trên Internet Explorer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ctrl + W  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Ctrl + F4  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Cả A và B đúng  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tất cả sai  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  3  :    Web Server là gì?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là máy tính đang được sử dụng để xem nội dung các trang web  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Là một dịch vụ của Internet  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Là máy chủ dùng để đặt các trang Web trên Internet  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên đều đúng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  4  :    Trang chủ là gì  ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Là tập hợp các trang web có liên quan đến nhau  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Là một trang web đầu tiên của Website  .",
+          "is_correct": true
+        },
+        {
+          "label": "C",
+          "text": "Là địa chỉ của Website  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Tất cả các câu trên đều đúng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  5  :    Phím tắt xem chế độ  toàn màn hình trong Internet Explorer:",
+      "options": [
+        {
+          "label": "A",
+          "text": "F11  .",
+          "is_correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ctrl    +    Alt    +    F  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Alt    +    Shift    +    F  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ctrl    +    F  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  6  :    Tìm kiếm thông tin trên Internet:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chọn Start    Search  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Chọn View    Explorer    Bar    Search  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Chọn View    Toolbar    Search  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Mở một trang  W  eb tìm kiếm, nhập từ khóa cần tìm và chọn Search  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  7  :    Thuật ngữ “Search Engines” được hiểu là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tìm kiếm trên máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tìm các máy tính trên mạng  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Máy tìm kiếm hay còn gọi là công cụ tìm kiếm  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Tất cả đều đúng  .",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  8  :    Search Keywords là:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tìm kiếm trên máy tính  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "Tìm kiếm bằng Google  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "Dùng công cụ tìm kiếm tiềm nội dung “Keyword”  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "Từ khóa mà người dùng sử dụng để tìm kiếm thông tin  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu 1  9  :    Trang web nào sau đây không hỗ trợ máy tìm kiếm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "www.  google  .com  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "www.  yahoo  .com  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "www.b  amboo  .com  .",
+          "is_correct": false
+        },
+        {
+          "label": "D",
+          "text": "www.bbc.com  .",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "question": "Câu  20  :    Cách t  ìm chính xác cụm từ Alexander Bell: [IMG:Module_6_Q20_1.jpeg]",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exactly: Alexander Bell  .",
+          "is_correct": false
+        },
+        {
+          "label": "B",
+          "text": "'Alexander Bell'  .",
+          "is_correct": false
+        },
+        {
+          "label": "C",
+          "text": "\"Alexander Bell\"  .",
+          "is_correct": true
+        },
+        {
+          "label": "D",
+          "text": "Alexander Bell  .",
+          "is_correct": false
+        }
+      ]
+    }
+  ]
+}
